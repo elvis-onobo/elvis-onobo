@@ -2,14 +2,15 @@
 
 It's that seafarer turned software developer.
 
-- 🔭 I’m currently working on @easy-paystack, React-Starter-Pack, and Vue-Starter-Pack.
+- 🔭 I’m have built [Easy Paystack](https://www.npmjs.com/package/easy-paystack), a Paystack package to make the use of Paystack in
+production apps easy and [Title-Caser](https://www.npmjs.com/package/title-caser) to help fellow devs capitalise the first word in every
+string (best suited for use with user submitted data).
 
-Absolutely know nothing about them but it's about building something that servers the community well.
+I am also building a React-Starter-Pack and Vue-Starter-Pack to make the basic scaffolding for frontend apps a lot faster.
 
-That being said, here's [Title-caser](https://www.npmjs.com/package/title-caser) to help you capitalise the first word in every string.
-Comes in handy in formatting user submitted strings.
+In trying to build resources for the greater good, I have ended up doing things that I never thought you could.
 
-I totally believe that while doing things for the greater good you end up doing things that you never thought you could.
+A wise man once said, __To Teach is to Learn Twice.__
 
 I;m on [Twitter](twitter.com/elvis-onobo)
 <!--
