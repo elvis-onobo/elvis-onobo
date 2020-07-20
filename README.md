@@ -12,7 +12,7 @@ In trying to build resources for the greater good, I have ended up doing things 
 
 A wise man once said, __To Teach is to Learn Twice.__
 
-I;m on [Twitter](twitter.com/elvis-onobo)
+I'm on [Twitter](twitter.com/elvis-onobo)
 <!--
 **elvis-onobo/elvis-onobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
