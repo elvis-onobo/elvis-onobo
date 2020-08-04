@@ -1,4 +1,4 @@
-# [![waylon walker header](./elvis-onobo.png)]
+![Elvis Onobo](elvis-onobo-profile.png)
 <h1 align="center">Hi 👋, I'm Elvis Onobo</h1>
 <h3 align="center">Software Engineer</h3>
 
