@@ -1,4 +1,4 @@
-![Elvis Onobo](https://github.com/elvis-onobo/elvis-onobo/blob/master/elvis-onobo-profile.png?raw=true)
+![Elvis Onobo](https://github.com/elvis-onobo/elvis-onobo/blob/master/elvis-onobo-gif.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis-onobo" alt="elvis-onobo" /> </p>
 
