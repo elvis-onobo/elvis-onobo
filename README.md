@@ -1,8 +1,8 @@
-![Elvis Onobo's banner](https://github.com/elvis-onobo/elvis-onobo/blob/master/banner.png)
+![Elvis Onobo's banner](https://github.com/elvis-onobo/elvis-onobo/blob/master/banner.jpg)
 
 **Hi, I'm Elvis**
 
-I am passionate about building things and helping people and organisations succeed; I do this by 
+I am passionate about building things and helping people and organisations succeed; I do this by
 coding applications till they work and by sharing my knowledge through my articles and Youtube channel;
 You can check them out on [Medium](https://medium.com/@elvis.onobo) and [Hashnode](https://elvisonobo.hashnode.dev)
 
@@ -13,4 +13,4 @@ to make certain task fast and simple for myself and other developers.
 I believe in teaching as a way of learning and advancing the world because I believe that the world
 can only be as good as the minds of the people in it.
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/elvis_onobo)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elvis-onobo-77a2b9120/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/elvis_onobo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elvis-onobo-77a2b9120/)
