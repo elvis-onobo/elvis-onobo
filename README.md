@@ -3,7 +3,7 @@
 **Hi, I'm Elvis**
 
 I am passionate about building things and helping people and organisations succeed; I do this by
-coding applications till they work and by sharing my knowledge through my articles and Youtube channel;
+coding applications till they work and by sharing my knowledge through my articles and [Youtube](https://www.youtube.com/channel/UCYqjL8Ck19NNsVwpLQGngLA) channel;
 You can check them out on [Medium](https://medium.com/@elvis.onobo) and [Hashnode](https://elvisonobo.hashnode.dev)
 
 I built applications like [Ofrinbox](https://ofrinbox.com),
