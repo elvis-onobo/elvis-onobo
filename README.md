@@ -13,4 +13,4 @@ to make certain task fast and simple for myself and other developers.
 I believe in teaching as a way of learning and advancing the world because I believe that the world
 can only be as good as the minds of the people in it.
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/elvis_onobo) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elvis-onobo-77a2b9120/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elvis-onobo-77a2b9120/)
